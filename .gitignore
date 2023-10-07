@@ -1,0 +1,22 @@
+# Arquivos de configuração
+instance/
+.env
+
+# Arquivos de ambiente
+*.pyc
+*.pyo
+__pycache__/
+
+# Banco de dados SQLite
+*.sqlite
+*.db
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados automaticamente
+__init__.py
+.mypy_cache/
+.vscode/
+.idea/
+__pycache__/
